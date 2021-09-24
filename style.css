@@ -1,0 +1,36 @@
+.tittle{
+    color:tomato;
+    font-size: 20px;
+    font-weight: 500;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+span{
+    font-weight: 600;
+}
+a {
+    color:tomato;
+    font-weight: 400;
+}
+#primero{
+    color:rgba(4, 4, 180, 0.774);
+    font-weight: 300;
+}
+#primero em{
+    background: rgb(242, 243, 158);
+    color:darkblue
+}
+#segundo{
+    color:rgb(58, 56, 56)
+}
+.especial{
+    background: black;
+    color:yellow;
+    font-weight: 300;
+}
+body{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
